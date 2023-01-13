@@ -2,9 +2,9 @@
   "name": "chaiproject",
   "version": "1.0.0",
   "description": "Chai library project",
-  "main": "index.js",
+  "main": "test/test.js",
   "scripts": {
-    "test": "test.js"
+    "test": "mocha test"
   },
   "repository": {
     "type": "git",
