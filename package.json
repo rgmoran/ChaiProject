@@ -1,0 +1,27 @@
+{
+  "name": "chaiproject",
+  "version": "1.0.0",
+  "description": "Chai library project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgmoran/ChaiProject.git"
+  },
+  "keywords": [
+    "Chai",
+    "Javascript",
+    "testing"
+  ],
+  "author": "Rodrigo Moran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgmoran/ChaiProject/issues"
+  },
+  "homepage": "https://github.com/rgmoran/ChaiProject#readme",
+  "devDependencies": {
+    "chai": "^4.3.7"
+  }
+}

@@ -1,0 +1,5 @@
+# excluding node_modules
+node_modules
+
+# excluding txt files
+Chaikeys.txt
